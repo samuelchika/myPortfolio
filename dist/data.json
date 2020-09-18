@@ -1,0 +1,204 @@
+{
+    "bio" : {
+        "hireable": true,
+        "availability": "Immediately",
+        "name" : "Samuel Chika Ezeja",
+        "email": "samuelemyrs@gmail.com",
+        "summary": "IT Network / Technical Support | IT Consultant | Web Developer | I.T SUPPORT TECHNICIAN",
+        "currentLocation": "Dublin, Ireland",
+        "phone": "35389616949",
+        "address": "Apartment 6, The Turnpike, Santy Cross, Ballymun Road, Dublin 11, Dublin, Ireland",
+        "eircode" : "D11 H30P",
+        "profile" : "Detail-oriented and best-performing professional with over 4 years of extensive experience, very strong background in IT Support/ Technician, IT Consultancy and Software / Application Support with qualities such as self-discipline, team-player and ability to work with little or no supervision. Proven history of success with hardware and software. Expert in ensuring customers satisfaction - locally or remote. Skilled at providing support – remote or locally, for network, desktop, web technologies. Having exposure to a wide range of IT technologies & able to play a key role in diagnosing hardware, software and networking problems to ensure that quality solutions meet business objectives.",
+        "profileSummary" : ["Hardware: Cisco Catalyst switch 6960, Cisco Router 2911, Cisco Switch 2960, wireless access controllers, LAN cables etc.", 
+            "Software: HTML5/CSS3, JavaScript, Typescript, PHP-OOP, MySQL, Bootstrap 4, Microsoft Office, Windows, Git, Cisco IOS, GNS3, Packet Tracer, VMware workstation, Wireshark, Ubuntu, Android.", 
+            "Networking: Routing Protocols – TCP/IP, RIP, EIGRP, OSPF, BGP, HSRP. Infrastructure services – DHCP, DNS, SMTP, FTP, TFTP. LAN technologies – Ethernet, Fast / Gigabit / 10 Gigabit Ethernet. Port Channel – VLANS, VTP, STP, RSTP, 802.1Q. WAN Technologies - PPP, MPLS, BGP.", "Leadership: President National Youth Service Corps, Ikorodu, Lagos. Director of Research, National Association of Mathematics Student, FUTO Chapter.", "Others: Expert with planning, installing, maintaining and troubleshooting software and hardware in windows and networking (Cisco) environment."]
+    },
+    "experience": [{
+        "jobTitle" : "IT NETWORK SUPPORT / TECHNICIAN.",
+        "employer" : "National Petroleum Cooperation, Ikoyi, Lagos",
+        "from" : "February 2019",
+        "to" : "September 2019",
+        "duration" : "8 month",
+        "responsibilities" : [
+            "Working with service providers.",
+            "Hardware / Software  - (Desktop / Mobile) support.", "Investigated and diagnosed network problems", "Installed, maintained, repaired and upgrade Company’s Computer System, network printers and Networks that really made information sharing easy.", "Performed Upgrading and backups of Cisco router Configuration files using TFTP server.",
+            "Maintain professionalism and courtesy, answering phone calls.",
+            "Configured VLANs, VTP, Ether channels for proper optimization of the network.", "A positive “can do” attitude towards work, and our clients",
+            "Documentation / report escalating issues to higher Tier - handwritten / mail.", "Ensured all IT equipment complies with industry standards.",
+            "Develop and manage IT enlightment training resource for staffs.",
+            "Provided Local Area Network (LAN) Supports."
+        ]
+    },{
+        "jobTitle" : "Web Development",
+        "employer" : "Divine Mercy Catholic Church, Ikorodu, Lagos",
+        "from" : "September 2018",
+        "to" : "",
+        "duration" : "1 month",
+        "responsibilities" : [
+            "Develop project concepts and maintain optimal workflow.", "Work with senior developer to manage large, complex design projects for corporate clients.", "Complete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code.", "Carry out quality assurance tests to discover errors and optimize usability.",
+            "ETL - Data Management for specific user privileges.", "Remote Development - GitHub, TeamViewer"
+        ]
+    },{
+        "jobTitle" : "IT Consultant",
+        "employer" : "Federal University of Technology, Owerri, Mathematics Department",
+        "from" : "January 2015",
+        "to" : "November 2015",
+        "duration" : "11 month",
+        "responsibilities" : [
+            "Worked closely with department to analyze IT system requirements, information technology needs and their budget in order to plan IT projects and ensure customers satisfaction.",
+            "Developed IT system specifications after evaluating departments departments expectation to complier with industry standards",
+            "Solved clients IT issues - Researched and purchased equipment / quality software, documented plan for software, hardware and networking installation and maintainance.",
+            "Decommission of bad computers/networks.",
+            "Installed and updated Windows 10, O, Microsoft Office Suite, Matlab, Norton 360.",
+            "Installed network technology: Wireless Access point, DHCP, TCP/IP, Access Control(Security)."
+        ]
+    },{
+        "jobTitle" : "I.T SUPPORT TECHNICIAN (INTERNSHIP)",
+        "employer" : "National Petroleum Cooperation, Ikoyi, Lagos",
+        "from" : "June 2014",
+        "to" : "September 2019",
+        "duration" : "6 month",
+        "responsibilities" : [
+            "Performed Anti-Virus Program Installation and Virus Removal for Customers",
+            "Installed Printers, Computer and Network Systems Provided application support by handling users queries with an 80% accuracy.",
+            "Daily maintenance, monitoring and support of the IT server and systems infrastructure", "Troubleshoot networking, routing and inter connectivity issues, including troubleshooting of network device configuration and low-level application interaction- TCP/IP, DNS, DHCP, Layer 2/3 network devices.","Configure inter-vlan routing on Layer 3 Switches","Assisted the network manager with Installation, Configuration and Administration of Windows Servers 2000/2003, Active Directory, FTP, DNS, DHCP, TFTP, under various LAN and WAN environments.","Setting up companies mail on staff desktop / mobile and password reset.","Worked with the I.T team members to resolve Local Server Issues","Provided Network LAN Supports","Remote Desktop Troubleshooting.",
+            "Obtain feedbacks and suggestions from staffs.",
+            "Establishing timeline / report for escallating issues."
+        ]
+    }],
+    "education" : {
+        "academic" : [{
+            "certified": true,
+            "title": "Higher Diploma in Computing",
+            "from": "September 2019",
+            "to": "May 2020",
+            "institution": "Griffith College, Dublin, Ireland",
+            "link": "https://www.griffith.ie",
+            "outcome": [
+                "Programming  and Data structure - Java.",
+                "Object Oriented Development - Java.",
+                "HCI & GUI Programming - JavaFX.",
+                "Operating System / Data Communication and Network.",
+                "Relational Database - MySQL.",
+                "Software Engineering for Web Application - HTML5 / CSS3 / BootStrap 4 / PHP / MySQL."
+            ]
+        },{
+            "certified": true,
+            "title": "Industrial Mathematics",
+            "from": "September 2010",
+            "to": "December 2015",
+            "institution": "Federal University of Technology, Owerri",
+            "link": "https://www.futo.edu.ng",
+            "outcome": [
+                "Theory of Programming Language.",
+                "File Processing.",
+                "Face Detection using mathematical modelling - PROJECT(2015)."
+            ]
+        }],
+        "courses": [{
+            "certified": true,
+            "title": "Cisco Certified Network Associate",
+            "of": "Routing and Switching",
+            "from": "August 2018",
+            "to": "August 2021",
+            "body": "Cisco",
+            "online": false,
+            "link": "https://cisco.com",
+            "certId": "CSCO13347633"
+        },{
+            "certified": true,
+            "title": "Object Oriented Programming PHP",
+            "of": "MVC Approach",
+            "from": "April 2020",
+            "to": "",
+            "body": "Udemy",
+            "online": true,
+            "link": "https://udemy.com",
+            "certId": ""
+        }]
+    },
+    "skills": [
+        { "name": "PHP/MySQL", "strength" : 80, "fAwesome": "fab", "progBarColor": "bg-info", "fAwesomeA": "fa-php", "fAwesomeTextColor": "text-info"  },
+        { "name": "JS/jQuery", "strength" : 60, "fAwesome": "fab", "progBarColor": "bg-warning",  "fAwesomeA": "fa-js", "fAwesomeTextColor": "text-warning" },
+        { "name": "IP Networking", "strength" : 85, "fAwesome": "fas", "progBarColor": "bg-success",  "fAwesomeA": "fa-network-wired", "fAwesomeTextColor": "text-success" },
+        { "name": "Java", "strength" : 60, "fAwesome": "fab", "progBarColor": "bg-warning",  "fAwesomeA": "fa-java", "fAwesomeTextColor": "text-warning" },
+        { "name": "HTML5/CSS3", "strength" : 80, "fAwesome": "fab", "progBarColor": "bg-danger",  "fAwesomeA": "fa-html5", "fAwesomeTextColor": "text-warning" },
+        { "name": "Git", "strength" : 40, "fAwesome": "fab", "progBarColor": "bg-secondary",  "fAwesomeA": "fa-github", "fAwesomeTextColor": "text-secondary" },
+        { "name": "CompTia A+", "strength" : 85, "fAwesome": "fa", "progBarColor": "bg-success",  "fAwesomeA": "fa-laptop", "fAwesomeTextColor": "text-success" },
+        { "name": "IT Support", "strength": 75, "fAwesome": "fab", "progBarColor": "bg-primary",  "fAwesomeA": "fa-teamspeak", "fAwesomeTextColor": "text-primary" },
+        { "name": "Critical Thinking / Problem Solving", "strength": 70, "fAwesome": "fa", "progBarColor": "bg-danger",  "fAwesomeA": "fa-cogs", "fAwesomeTextColor": "text-danger" },
+        { "name": "Remote Technologies", "strength": 80, "fAwesome": "fa", "progBarColor": "bg-warning",  "fAwesomeA": "fa-video-camera", "fAwesomeTextColor": "text-warning" },
+        { "name": "Windows", "strength": 80, "fAwesome": "fab", "progBarColor": "bg-primary",  "fAwesomeA": "fa-windows", "fAwesomeTextColor": "text-primary" },
+        { "name": "Linux", "strength": 50, "fAwesome": "fab", "progBarColor": "bg-secondary",  "fAwesomeA": "fa-linux", "fAwesomeTextColor": "text-secondary" },
+        { "name": "Virtualization Technology", "strength": 80, "fAwesome": "fa", "progBarColor": "bg-primary",  "fAwesomeA": "fa-desktop", "fAwesomeTextColor": "text-primary" }
+    ],
+    "award": [
+        {
+            "certified": true,
+            "title": "Director of Research.",
+            "of": " NAMSN (FUTO Chapter)",
+            "from" : "November 2013",
+            "to" : "May 2014",
+            "body": "Federal University of Technology, Owerri" 
+        },{
+            "certified": true,
+            "title": "Certificate of Completion.",
+            "of": "",
+            "from" : "April 2016",
+            "to" : "April 2017",
+            "body": " National Youth Service Corps" 
+        },{
+            "certified": false,
+            "title": "President SERVICOM / GENDER.",
+            "of": "Community Development Service",
+            "from" : "June 2016",
+            "to" : "March 2017",
+            "body": " National Youth Service Corps (Lagos State)" 
+        }
+    ],
+    "socials": [
+        { "link": "https://wa.me/353899616949?text=Contact%20from%20portfolio", "fAwesome": "fab fa-whatsapp" },
+        { "link": "https://www.linkedin.com/in/samuel-chika-8278a89a", "fAwesome": "fab fa-linkedin" },
+        { "link": "https://codepen.io/samuelchika", "fAwesome": "fab fa-codepen" },
+        { "link": "https://www.github.com/samuelchika", "fAwesome": "fab fa-github" }
+    ],
+    "projects": [
+        {
+            "name": "Fitness Website",
+            "link": "https://knuth.griffith.ie/~s3011354/csamframework/public/index.php",
+            "skills": ["PHP", "MySQL", "Javascript", "BootStrap 4", "HTML5 & CSS3"],
+            "description": "School Project, carried out by 3 people. I was responsible for the whole backend work (PHP / MySQL), and helped in the Front End (JavaScript). It's a fitness website with functionalities of restricting users who are not logged in, from accessing some features such as: testimonials and classes full details. Everything about website runs from the backend. It's managed from the database. Login as a user:- email: samuelchika@gmail.com, admin: samuelemyrs@gmail.com. Password: password."
+        }, {
+            "name": "Other Projects",
+            "link": "https://github.com/samuelchika",
+            "skills": ["Java", "JavaFX", "JavaScript", "BootStrap 4", "HTML5 / CSS3", "TypeScript"],
+            "description": "A link to my Github page to look out some of my Java Project and WebProjects"
+        }, {
+            "name": "My Portfolio",
+            "link": "https://samuelchika.github.io/JSWebProject/portfolio",
+            "skills": ["HTML5 & CSS3", "TypeScript", "BootStrap 4"],
+            "description": "A link to this very website you are viewing. Contains all the code and classes. The website was Design using OOP approach. Everything in the website comes from a file named data.json. The html body tag is empty. All other elements, event, the bootstrap modal, was carried out by differnt classes. All the buttons activating the modals were created seperately. The modal is an ABSTRACT Class and each button Modal extends the Modal Class. A Class is defined to create every HTML element, it classes, ID, attributes and textnode. Each section in the webpage has a Class that create all its elements, sub elements / children, using the Class that create each HTML Elements."
+        }, {
+            "name": "YouTube-API",
+            "link": "https://samuelchika.github.io/JSWebProject/youTubeAPI",
+            "skills": ["HTML5 & CSS3", "JQuery"],
+            "description": "Out of the Frustrting Ads in youtube I was forced to get busy with Youtube API by google to prevent ads from popping up. Thanks to Brad who guided me through it all."
+        }, {
+            "name": "Survey Form",
+            "link": "https://samuelchika.github.io/JSWebProject/codecampProject/codeCampSurveryForm",
+            "skills": ["HTML5 & CSS3"],
+            "description": "This was a codecamp project on HTML5 / CSS3"
+        }, {
+            "name": "Tribute Page",
+            "link": "https://samuelchika.github.io/JSWebProject/codecampProject/tributePage",
+            "skills": ["HTML5 & CSS3"],
+            "description": "This was a codecamp project on HTML / CSS3."
+        }, {
+            "name": "Interview Question",
+            "link": "https://samuelchika.github.io/JSWebProject/interview",
+            "skills": ["HTML5 & CSS3", "JavaScript"],
+            "description": "This was a codecamp project on HTML / CSS3 and JavaScript."
+        }
+    ]
+}
