@@ -169,19 +169,26 @@ class Bio {
     }
 
     getBioData():HTMLElement {
-        const div = new ElementCreate('div');
-        div.setClasses(['my-4', 'p-4', 'col-md-6', 'mx-auto', 'col-sm-10']);
-        div.setId('jumCont');
-        const divBio = new ElementCreate('div');
-        divBio.setClasses(['row', 'my-3', 'text-left', 'text-dark']);
-        divBio.setChildren([this.getHireable(), this.getAvailiablity(), this.getMobile(), this.getAddress(), this.getEirCode(), this.getEmail()]);
-        div.setChildren([
-            this.getName(),
-            this.getSummary(),
-            divBio.getElement(),
-            this.getProfile()
-        ]);
-        return div.getElement();
+      const div = new ElementCreate("div");
+      div.setClasses(["my-3", "p-3", "container", "mx-auto"]);
+      div.setId("jumCont");
+      const divBio = new ElementCreate("div");
+      divBio.setClasses(["row", "my-3", "text-left", "text-dark"]);
+      divBio.setChildren([
+        this.getHireable(),
+        this.getAvailiablity(),
+        this.getMobile(),
+        this.getAddress(),
+        this.getEirCode(),
+        this.getEmail(),
+      ]);
+      div.setChildren([
+        this.getName(),
+        this.getSummary(),
+        divBio.getElement(),
+        this.getProfile(),
+      ]);
+      return div.getElement();
     }
 
 }
