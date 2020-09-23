@@ -78,8 +78,9 @@ body {
     background: none;
 }
 #jumCont {
-    background-color:#918f88;
+    background-color:#a1a19e;
     padding-top: 25px;
+    border-radius: 8%;
 }
 
 .list-square {
@@ -164,6 +165,11 @@ body {
     border-radius: 50%;
     background-color: rgba(77, 69, 63, 0.541);
     padding: 15px 20px;
+}
+
+.anchorTags:hover {
+    font-size: 1.7rem;
+    text-decoration: none;
 }
 
 /* Key Frames*/

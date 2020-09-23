@@ -48,12 +48,12 @@ class Bio {
         const i = new ElementCreate("I");
         h3.setClass('col-12');
         h3.setElementText('Hireable: ');
-        span.setClasses(['text-white', 'font-small']);
+        span.setClasses(["font-small"]);
         if (this.bioData.hireable) {
-            i.setClasses(['fa', 'fa-check-circle']);
+            i.setClasses(["fa", "fa-check-circle", "text-success"]);
         }
         else {
-            i.setClasses(['fa', 'fa-ban']);
+            i.setClasses(["fa", "fa-ban", "text-danger"]);
         }
         span.setChild(i.getElement());
         h3.setChild(span.getElement());
@@ -76,9 +76,10 @@ class Bio {
         const i = new ElementCreate("I");
         //set classes and attributes of each HTML Element created
         h3.setClass('col-12');
-        h3.setElementText('Mobile: ');
+        h3.setElementText("Mobile: ");
+        a.setClasses(["text-reset", "anchorTags"]);
         a.setAttribute({ name: "href", value: `mailto:${this.bioData.email}?subject:From%20my%20Portfolio` });
-        span.setClasses(['text-white', 'font-mid', "my-auto", "text-shadow-success"]);
+        span.setClasses(["text-white", "font-mid", "text-shadow-success"]);
         i.setClasses(['fa', 'fa-envelope']);
         span.setChild(i.getElement());
         a.setChild(span.getElement());
@@ -91,9 +92,10 @@ class Bio {
         const span = new ElementCreate("SPAN");
         //set classes and attributes of each HTML Element created
         h3.setClass('col-12');
-        h3.setElementText('Mobile: ');
+        h3.setElementText("Mobile: ");
+        a.setClasses(["text-reset", "anchorTags"]);
         a.setAttribute({ name: "href", value: `tel:+${this.bioData.phone}` });
-        span.setClasses(['text-light', 'font-small', 'text-shadow-success']);
+        span.setClasses(["text-white", "font-small", "text-shadow-success"]);
         span.setElementText(`+${this.bioData.phone}`);
         a.setChild(span.getElement());
         h3.setChild(a.getElement());
@@ -122,14 +124,14 @@ class Bio {
     getProfile() {
         const p = new ElementCreate("P");
         p.setId('litBio');
-        p.setClass('text-justify');
+        p.setClasses(["text-justify", "text-dark"]);
         p.setElementText(this.bioData.profile);
         p.setChild(this.getProfileSummary());
         return p.getElement();
     }
     getProfileSummary() {
         const ul = new ElementCreate("UL");
-        ul.setClasses(['list-circle', 'ml-3', 'text-white']);
+        ul.setClasses(["list-circle", "ml-3"]);
         this.bioData.profileSummary.forEach(sum => {
             const li = new ElementCreate("LI");
             li.setElementText(sum);
