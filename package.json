@@ -14,7 +14,7 @@
     "webpack": "^4.44.0"
   },
   "dependencies": {
-    "@types/jquery": "^3.5.0",
+    "@types/jquery": "^3.5.1",
     "commonjs": "0.0.1",
     "jquery": "^3.5.1",
     "typescript": "^3.9.7"
